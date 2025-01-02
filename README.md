@@ -9,19 +9,28 @@ High Score Tracking: The game saves and displays the top 5 high scores in a scor
 Timed Questions: Each question is time-bound depending on the selected difficulty, with time limits ranging from 5 to 15 seconds.
 Lesson-based Vocabulary: The vocabulary words are loaded from text files corresponding to different lessons (e.g., lesson1.txt, lesson2.txt), allowing users to focus on specific lessons they want to practice.
 User-Friendly: Provides a simple and clear interface with prompts and error handling to guide the player through the game.
+
+
 How It Works:
 Lesson Selection: The user selects a lesson by entering the corresponding lesson number. The vocabulary words from the chosen lesson are loaded from a text file in the format japanese_word,english_translation.
 Vocabulary Quiz: The user is quizzed on the English meaning of Japanese words. The system uses a timer based on the difficulty level, and the user must input the correct English translation before time runs out.
 Score and Feedback: The game keeps track of the user's score and provides feedback through audio (correct, incorrect, or timed-out responses). The high score is saved and displayed at the end of each game.
+
+
 File Structure:
 meaning.py: The main game script.
 lesson<number>.txt: Vocabulary files containing comma-separated Japanese words and their English translations (e.g., 日本語,English).
 scoreboard.txt: A file that stores the high scores for the game.
+
+
 Prerequisites:
 Python 3.x
 gTTS (Google Text-to-Speech)
 mplayer (for audio playback)
 pygame (for handling game events)
+
+
+
 How to Play:
 Clone the repository and navigate to the project directory.
 Run bash.sh to set up the virtual environment and install dependencies.
