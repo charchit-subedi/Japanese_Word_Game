@@ -1,0 +1,97 @@
+いく,go
+くる,come
+かえる,return
+がっこう,school
+スーパー,supermarket
+えき,station
+ひこうき,airplane
+ふね,ship
+でんしゃ,train
+ちかてつ,subway
+しんかんせん,bullet train
+バス,bus
+タクシー,taxi
+じてんしゃ,bicycle
+あるいて,walking
+ひと,person
+ともだち,friend
+かれ,he/boyfriend
+かのじょ,she/girlfriend
+かぞく,family
+ひとりで,alone
+せんしゅう,last week
+こんしゅう,this week
+らいしゅう,next week
+せんげつ,last month
+こんげつ,this month
+らいげつ,next month
+きょねん,last year
+ことし,this year
+らいねん,next year
+～がつ,~month of the year
+なんがつ,what month
+ついたち,first day of the month
+ふつか,second day of the month
+みっか,third day of the month
+よっか,fourth day of the month
+いつか,fifth day of the month
+むいか,sixth day of the month
+なのか,seventh day of the month
+ようか,eighth day of the month
+ここのか,ninth day of the month
+とおか,tenth day of the month
+じゅうよっか,fourteenth day of the month
+はつか,twentieth day of the month
+にじゅうよっか,twenty-fourth day of the month
+～にち,~day of the month
+なんにち,what day of the month
+たんじょうび,birthday
+ふつう,local train
+きゅうこう,express train
+とっきゅう,limited express train
+つぎの,next
+どういたしまして,you’re welcome
+～ばんせん,platform number
+ホーム,platform
+まいにち,every day
+まいあさ,every morning
+まいばん,every night
+こんや,tonight
+いま,now
+さっき,a little while ago
+あした,tomorrow
+あさって,the day after tomorrow
+きのう,yesterday
+おととい,the day before yesterday
+げつようび,Monday
+かようび,Tuesday
+すいようび,Wednesday
+もくようび,Thursday
+きんようび,Friday
+どようび,Saturday
+にちようび,Sunday
+しゅうまつ,weekend
+ひるやすみ,lunch break
+まいしゅう,every week
+まいつき,every month
+まいとし,every year
+せんしゅう,last week
+らいしゅう,next week
+せんげつ,last month
+らいげつ,next month
+せんせい,teacher
+きょうしつ,classroom
+じむしつ,office
+かいぎしつ,meeting room
+うけつけ,reception desk
+ロビー,lobby
+へや,room
+トイレ,toilet
+かいだん,stairs
+エレベーター,elevator
+じどうはんばいき,vending machine
+でんわ,telephone
+くに,country
+かいしゃ,company
+うち,home
+

@@ -1,0 +1,51 @@
+わたし,I
+あなた,you
+あのひと,that person
+あのかた,that person
+~さん,Mr
+~ちゃん,child name
+~じん,person
+せんせい,teacher
+きょうし,teacher
+がくせい,student
+かいしゃいん,company employee
+しゃいん,employee
+ぎんこういん,bank employee
+いしゃ,doctor
+けんきゅうしゃ,researcher
+だいがく,university
+びょういん,hospital
+だれ,who
+どなた,who
+なんさい,how old
+おいくつ,how old
+はい,yes
+いいえ,no
+はじめまして,Nice to meet you
+さい,years old
+わたしたち,we
+みなさん,everyone
+〜くん,Mr
+エンジニア,engineer
+でんき,electricity
+しつれいですが,Excuse me
+おなまえは?,What is your name
+どうぞよろしく,Nice to meet you
+おねがいします,Please
+こちら,here
+〜からきました,come from
+アメリカ,America
+イギリス,England
+インド,India
+インドネシア,Indonesia
+かんこく,South Korea
+タイ,Thailand
+ちゅうごく,China
+ドイツ,Germany
+にほん,Japan
+フランス,France
+ブラジル,Brazil
+さくらだいがく,Sakura University
+ふじだいがく,Fuji University
+パワーでんき,Power Electric
+ブラジルエアー,Brazil Air

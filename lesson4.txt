@@ -1,0 +1,126 @@
+たべる,eat
+のむ,drink
+みる,see
+きく,listen
+はなす,speak
+よむ,read
+かく,write
+かう,buy
+する,do
+くる,come
+いく,go
+かえる,return
+あう,meet
+しごと,work
+べんきょう,study
+りょうり,cooking
+うた,song
+えいが,movie
+しゅくだい,homework
+てがみ,letter
+ざっし,magazine
+てんき,weather
+いぬ,dog
+ねこ,cat
+うま,horse
+さかな,fish
+き,tree
+くるま,car
+じてんしゃ,bicycle
+ひこうき,airplane
+でんしゃ,train
+ちかてつ,subway
+バス,bus
+タクシー,taxi
+あるく,walk
+のる,ride
+いま,now
+ごぜん,a.m.
+ごご,p.m.
+あさ,morning
+ひる,afternoon
+ばん,evening
+よる,night
+おととい,the day before yesterday
+きのう,yesterday
+きょう,today
+あした,tomorrow
+あさって,the day after tomorrow
+けさ,this morning
+こんばん,tonight
+やすみ,holiday/rest
+ひるやすみ,lunch break
+しけん,exam
+かいぎ,meeting
+かいもの,shopping
+パーティー,party
+りょこう,travel
+テスト,test
+びょうき,sickness
+たいそう,exercise
+でんわ,telephone
+しんぶん,newspaper
+ラジオ,radio
+テレビ,television
+ほん,book
+にっき,diary
+たんご,vocabulary
+ひるごはん,lunch
+あさごはん,breakfast
+ばんごはん,dinner
+パン,bread
+ジュース,juice
+さかな,fish
+やさい,vegetables
+くだもの,fruit
+コーヒー,coffee
+おちゃ,tea
+こうちゃ,black tea
+ぎゅうにゅう,milk
+ミルク,milk
+みず,water
+おさけ,alcohol
+おべんとう,lunch box
+おにぎり,rice ball
+たまご,egg
+にく,meat
+チーズ,cheese
+カレーライス,curry rice
+サンドイッチ,sandwich
+ハンバーガー,burger
+ケーキ,cake
+チョコレート,chocolate
+アイスクリーム,ice cream
+カップラーメン,cup noodles
+おみやげ,souvenir
+プレゼント,present
+ほんや,bookstore
+デパート,department store
+スーパー,supermarket
+レストラン,restaurant
+カフェ,cafe
+こうばん,police box
+びょういん,hospital
+としょかん,library
+えき,station
+バスてい,bus stop
+ゆうびんきょく,post office
+こうえん,park
+たいいくかん,gymnasium
+うんどうじょう,sports ground
+えいがかん,cinema
+ゲーセン,game center
+ゲーム,game
+カラオケ,karaoke
+しょくじ,meal
+スポーツ,sports
+スキー,skiing
+テニス,tennis
+サッカー,soccer
+やきゅう,baseball
+ゴルフ,golf
+バスケットボール,basketball
+ジョギング,jogging
+ピアノ,piano
+ギター,guitar
+

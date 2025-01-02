@@ -1,0 +1,131 @@
+いま,now
+きょう,today
+あした,tomorrow
+きのう,yesterday
+まいにち,every day
+まいあさ,every morning
+まいばん,every night
+いちにち,one day
+いっしゅうかん,one week
+いっかげつ,one month
+いっさつ,one book
+なんがつ,which month
+なんにち,what day
+なんようび,what day of the week
+じかん,time
+ふん,minute
+びょう,second
+ごぜん,a.m.
+ごご,p.m.
+ばん,night
+はん,half
+まえ,before
+あと,after
+いまから,from now
+いっしょに,together
+いくつ,how many
+すぎ,past
+まい,every
+かい,times
+かん,interval
+ここ,here
+そこ,there
+あそこ,over there
+どこ,where
+こちら,this way
+そちら,that way
+あちら,over there
+どちら,which way
+きょうしつ,classroom
+しょくどう,dining hall
+じむしょ,office
+かいぎしつ,meeting room
+うけつけ,reception
+ロビー,lobby
+へや,room
+トイレ,toilet
+おてあらい,restroom
+かいだん,stairs
+エレベーター,elevator
+エスカレーター,escalator
+じどうはんばいき,vending machine
+でんわ,telephone
+くに,country
+かいしゃ,company
+うち,home
+でんき,electricity
+ネクタイ,necktie
+ワイン,wine
+たばこ,tobacco
+うりば,sales counter
+ちか,basement
+いっかい,first floor
+にかい,second floor
+さんがい,third floor
+よんかい,fourth floor
+ごかい,fifth floor
+ろっかい,sixth floor
+ななかい,seventh floor
+はっかい,eighth floor
+きゅうかい,ninth floor
+じゅっかい,tenth floor
+じっかい,tenth floor
+なんがい,which floor
+いくら,how much
+ひゃく,hundred
+せん,thousand
+まん,ten thousand
+いらっしゃいませ,welcome
+みせてください,please show me
+じゃ,well then
+パン,bread
+ジュース,juice
+コーヒー,coffee
+てんいん,shop assistant
+スーパー,supermarket
+デパート,department store
+コンビニ,convenience store
+びょういん,hospital
+ゆうびんきょく,post office
+えき,station
+がっこう,school
+こうえん,park
+としょかん,library
+びじゅつかん,art museum
+ホテル,hotel
+レストラン,restaurant
+コンピューター,computer
+カメラ,camera
+テレビ,television
+ラジオ,radio
+ほんや,bookstore
+くすりや,pharmacy
+さかなや,fish shop
+やおや,greengrocer
+にくや,butcher
+はなや,florist
+パンや,bakery
+めがねや,optician
+とけいや,watch shop
+ふじんふく,women’s clothing
+しんしふく,men’s clothing
+ようふく,clothes
+くつ,shoes
+アクセサリー,accessories
+けしょうひん,cosmetics
+スポーツようひん,sporting goods
+かぐ,furniture
+おもちゃ,toys
+でんきせいひん,electrical goods
+けいたいでんわ,mobile phone
+ノート,notebook
+えんぴつ,pencil
+ボールペン,ballpoint pen
+シャープペンシル,mechanical pencil
+じしょ,dictionary
+ざっし,magazine
+しんぶん,newspaper
+かさ,umbrella
+かばん,bag
+てちょう,notebook planner
+めいし,business card

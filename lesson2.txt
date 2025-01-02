@@ -1,0 +1,75 @@
+これ,this
+それ,that
+あれ,there
+どれ,which
+この,this
+その,that
+あの,there
+どの,which
+いくら,how much
+かばん,bag
+ほん,book
+ざっし,magazine
+しんぶん,newspaper
+えんぴつ,pencil
+けしゴム,eraser
+じしょ,dictionary
+つくえ,desk
+いす,chair
+かいぎしつ,meeting room
+うけつけ,reception desk
+じむしょ,office
+かいしゃ,company
+だいがく,university
+びょういん,hospital
+とけい,watch
+てちょう,notebook
+かぎ,key
+かさ,umbrella
+くつ,shoes
+しょっき,dishes
+せんぷうき,fan
+でんき,electricity
+かいだん,stairs
+えいが,movie
+うた,song
+すいえい,swimming
+ノート,notebook
+めいし,business card
+カード,card
+ボールペン,ballpoint pen
+シャープペンシル,mechanical pencil
+カセットテープ,cassette tape
+テープレコーダー,tape recorder
+テレビ,television
+ラジオ,radio
+カメラ,camera
+コンピューター,computer
+じどうしゃ,automobile
+くるま,car
+チョコレート,chocolate
+コーヒー,coffee
+えいご,English
+にほんご,Japanese
+〜ご,language
+なん,what
+そう,I see
+そうですか,Is that
+あのう,well
+えっ,huh?
+どうぞ,here you go
+どうもありがとうございます,thank you very much
+これからおせわになります,Thank you for your support
+こちらこそよろしく,nice to meet you
+がっこう,school
+ともだち,friend
+ひと,person
+せいと,student
+でんわ,telephone
+えき,station
+スーパー,supermarket
+デパート,department store
+びじゅつかん,art museum
+としょかん,library
+ゆうびんきょく,post office
+ホテル,hotel
